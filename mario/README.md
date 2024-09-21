@@ -1,5 +1,6 @@
 # [Mario](mario.blend)
-The basic Mario model from SM64, does not include the LoDs.
+The basic Mario model from SM64, does not include the LoDs.(For mario.blend)
+DOES Include W.I.P (A.K.A Non-Working) LOD Included blend.
 ![Mario sheet](sheet.png)
 ![Metal Mario sheet](sheet_metal.png)
 
